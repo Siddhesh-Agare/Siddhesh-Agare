@@ -98,7 +98,7 @@ Task management application with CRUD operations.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhesh-Agare&theme=tokyonight"/>
 
 </div>
 
@@ -108,7 +108,7 @@ Task management application with CRUD operations.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agare&theme=tokyonight&margin-w=15"/>
 
 </div>
 
@@ -118,7 +118,7 @@ Task management application with CRUD operations.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhesh-Agare&theme=tokyo-night"/>
 
 </div>
 
