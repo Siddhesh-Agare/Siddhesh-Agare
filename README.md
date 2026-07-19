@@ -113,7 +113,7 @@ Version Control:
 ## 🎯 Goals for 2026
 
 - [ ] Master MERN Stack Development
-- [ ] Build 10+ real-world projects
+- [ ] Build 4+ real-world projects
 - [ ] Learn System Design basics
 - [ ] Contribute to open source
 - [ ] Land a Software Developer role (7–10 LPA)
